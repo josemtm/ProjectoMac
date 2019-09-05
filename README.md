@@ -13,4 +13,4 @@ y el puerto a una aplicacion o servidor distintos desechando el uso de la clase 
 
 Imagen de demostracion 
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
