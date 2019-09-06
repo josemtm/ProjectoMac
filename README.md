@@ -3,7 +3,7 @@ Obtiene los datos de la computadora que lo ejecuta y lo envia por medio de socke
 
 #Consta de dos clases para implementar la prueba del programa
 
-#Se debe correr ejecutar la clase flujoentrada para que abra el puerto elegido(defecto 9999) y
+#Se debe ejecutar la clase flujoentrada para que abra el puerto elegido(defecto 9999) y
 escuche en el la informacion.
 
 #Luego en la clase flujosalida tomara los datos de red de la computadora en forma de lista [Nombre de la maquina, IP , Direccion Mac]
